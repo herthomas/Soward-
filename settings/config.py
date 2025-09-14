@@ -21,8 +21,8 @@ class channels:
     shards_log_webhook = "https://discord.com/api/webhooks/111111111111111111111/GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
 
 class users:
-    developer = 1058254151810830357
-    root = [1058254151810830357]
+    developer = 867420007558021141
+    root = [867420007558021141]
 
 class Types:
     redeem_code_types = {
